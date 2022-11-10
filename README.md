@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fjaffriOSU
 - 👀 I’m interested in Software Development and Data Analytics
 - 🌱 I’m currently a MSIS graduate student 
-- 💞️ I’m looking to collaborate on Data analysis project
+- 💞️ I’m looking to collaborate in Software, Machine Learning and Data analysis project
 
 <!---
 fjaffriOSU/fjaffriOSU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
