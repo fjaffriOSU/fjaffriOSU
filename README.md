@@ -1,10 +1,8 @@
 🚀 Data Enthusiast | Data Science & Analytics | Software Developer
 
-- 👋 Hi, I’m Faisal Jaffri
-
 📍Stillwater, OK | 📧 fjaffri@okstate.edu | 
 
-👋 Hey there! 👋 I'm your friendly neighborhood data enthusiast. You know, the guy who dives headfirst into data lakes and emerges with insights that make you go, "Whoa, we had that data all along?"
+👋 Hey there! I’m Faisal Jaffri, your friendly neighborhood data enthusiast. You know, the guy who dives headfirst into data lakes and emerges with insights that make you go, "Whoa, we had that data all along?"
 
 📈  With some solid data experience under my belt, I've ventured into data wrangling, app development, and the world of number-crunching. If data were a puzzle, think of me as the one who spots the missing piece while chasing it down daily, just like I do on my daily run. All this, of course, with a cheerful soundtrack to keep the pace. 🎵😄🏃‍♂️
 
