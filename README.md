@@ -13,3 +13,11 @@
 🛠️ My toolkit includes Python, SQL, and enough programming languages to make your head spin (not literally, I promise). But let's not forget the serious stuff - I'm well-versed in machine learning, data structures, statistical modeling, and data visualization. I may not have superpowers, but I do have a knack for picking up new skills, so watch out for this up-and-coming data explorer!
 
 🚀 As I embark on this journey, I'm open to learning, collaborating, and having a laugh or two along the way. If you're up for sharing your data wisdom or just looking for a fellow data enthusiast to connect with, let's team up. Together, we'll transform data dilemmas into data delights! 😄📊
+
+🚀 Programming and Tools: SQL, 🐍 Python, 📊 R (🕵️‍♂️ Selenium, 📖 NLP, 📊 ggplot2), 🎨 Javascript (🐼 Pandas, 🔢 NumPy, 📈 matplotlib, 🧠 scikit-learn), ☁️ AWS, 📈 SAS, ☕ Java, 🌐 ASP.NET, C, C++, 🧮 MATLAB, 📊 Tableau, 📊 MS Excel, 💡 Power BI, 🔬 JMP, 📈 SQL Server Reporting Service, 📦 SQL Server Integration Service.
+
+🛠️ Frameworks & Libraries: 🐼 Pandas, 🧠 TensorFlow, 🔥 PyTorch, 🧪 Scikit-learn, 🚀 Spring Boot
+
+🛠️ Tools & Technologies: 📊 Tableau, 💡 Power BI, 🐳 Docker, ☸️ K8, 🕸️ Web Scraping, 🔄 Alteryx, 📲 Xcode, 📦 Maven, 🐙 Git, ⚙️ Jenkins, ☁️ Azure DevOps
+
+💽 Databases: 🍃 MongoDB, 🐘 PostgreSQL, 📦 MySQL, 🏢 DB2, 🌐 Azure SQL Database, ⚡ Azure Event Hub
