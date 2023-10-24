@@ -14,7 +14,9 @@
 
 🚀 As I embark on this journey, I'm open to learning, collaborating, and having a laugh or two along the way. If you're up for sharing your data wisdom or just looking for a fellow data enthusiast to connect with, let's team up. Together, we'll transform data dilemmas into data delights! 😄📊
 
-🚀 Programming and Tools: SQL, 🐍 Python, 📊 R (🕵️‍♂️ Selenium, 📖 NLP, 📊 ggplot2), 🎨 Javascript (🐼 Pandas, 🔢 NumPy, 📈 matplotlib, 🧠 scikit-learn), ☁️ AWS, 📈 SAS, ☕ Java, 🌐 ASP.NET, C, C++, 🧮 MATLAB, 📊 Tableau, 📊 MS Excel, 💡 Power BI, 🔬 JMP, 📈 SQL Server Reporting Service, 📦 SQL Server Integration Service.
+🚀 Programming and Tools
+
+🐍 Python, 📊 R (🕵️‍♂️ Selenium, 📖 NLP, 📊 ggplot2), 🎨 Javascript (🐼 Pandas, 🔢 NumPy, 📈 matplotlib, 🧠 scikit-learn), ☁️ AWS, 📈 SAS, ☕ Java, 🌐 ASP.NET, C, C++, 🧮 MATLAB, 📊 Tableau, 📊 MS Excel, 💡 Power BI, 🔬 JMP, 📈 SQL, SQL Server Reporting Service, 📦 SQL Server Integration Service.
 
 🛠️ Frameworks & Libraries: 🐼 Pandas, 🧠 TensorFlow, 🔥 PyTorch, 🧪 Scikit-learn, 🚀 Spring Boot
 
