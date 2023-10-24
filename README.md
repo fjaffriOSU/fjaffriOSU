@@ -1,4 +1,4 @@
-🚀 Data Enthusiast | Data Science & Analytics | Software Developer
+🚀 Data Enthusiast | Data Science & Analytics | Software Engineer
 
 📍Stillwater, OK | 📧 fjaffri@okstate.edu | 
 
